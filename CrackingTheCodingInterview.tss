@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\CH01_01\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\CH01_02\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\CH01_03\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\CH01_06\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\L6_01_LinkedLists\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\L6_01_LinkedLists\LinkedList.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\L6_01_LinkedLists\ListNode.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\Trie\Node.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\Trie\Trie.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data\Tech\Workspaces\CrackingTheCodingInterview\Trie\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Source Control Explorer</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
